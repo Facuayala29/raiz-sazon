@@ -482,7 +482,7 @@ footer {
     }
 
     .nav-links {
-        display: none;
+        display: flex;
     }
 
     .ingredient-list {
